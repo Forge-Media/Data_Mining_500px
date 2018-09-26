@@ -7,7 +7,8 @@ A Processing 3 data mining utility for the website 500px.com, the application ca
 2018 UPDATED: 500px API - Discontinued (Instructions to get app to work with a cached data-set)
 -------------------
 - Unfortuantely, this is the case.
-- The app still works, using a cached image set, this can be dowloaded here: [https://goo.gl/BYTJin](https://goo.gl/BYTJin) extract the archive into the data/cache folder. The directory should be data/cache/imageidnumber.gif
+- The app still works, using a cached image set, this can be dowloaded here: [https://goo.gl/BYTJin](https://goo.gl/BYTJin) 
+- Extract the archive into the data/cache folder. The directory should be data/cache/imageidnumber.gif
 - Make sure that `useAPI` is set to False!!
 - Does not require `consumerkey` and `consumersecret` to be set if `useAPI` is set to False!
 
