@@ -14,7 +14,7 @@ A Processing 3 data mining utility for the website 500px.com, the application ca
 
 If you've followed the above you should be able to run the app from within Processing and get a console-log showing: 
 
-![Image of Console](https://i.imgur.com/otoVVao.png)
+![Image of Console](https://i.imgur.com/MrodOcu.png)
 
 Requires:
 -----------------
